@@ -7,4 +7,4 @@ Public SkinEngine repo. Used for bug reports, feature requests and changelog.
 # 🔓 Purchase SkinEngine
 SkinEngine is currently a closed source Minecraft plugin. To access it, you must purchase it on one of the supported platforms.
 
-Please visit the SkinEngine Project Space to learn more: [kfx-dev.com/skinengine/download](https//kfx-dev.com/skinengine)
+Please visit the SkinEngine Project Space to learn more: [kfx-dev.net/skinengine/download](https//kfx-dev.net/skinengine)
